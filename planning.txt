@@ -1,0 +1,15 @@
+1. Building the project structure
+         - Creating folder
+         - adding files
+         - connecting files
+
+2. Navbar
+     - The Name
+     - links(Home, blog, project, about me, contact)
+
+3. Portfolio item grid
+   -images
+   -titles
+   -descriptions
+   -animations
+   -javascript
